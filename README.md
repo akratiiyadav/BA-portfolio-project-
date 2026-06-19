@@ -5,9 +5,9 @@ Three end-to-end BA projects covering operations analysis, customer analytics, a
 ---
 
 ## About Me
-[Akrati Yadav] — Aspiring Business Analyst with hands-on experience in requirements gathering, process mapping, data analysis, and stakeholder reporting.
+Akrati Yadav — Aspiring Business Analyst with hands-on experience in requirements gathering, process mapping, data analysis, and stakeholder reporting.
 
-📧 [akratiy68@gmail.com] | 🔗 [LinkedIn URL] | 📍 [Kanpur,Uttar pradesh]
+📧 akratiy68@gmail.com | 🔗 [LinkedIn URL] | 📍 Kanpur,Uttar pradesh
 
 ---
 
